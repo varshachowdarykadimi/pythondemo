@@ -56,5 +56,5 @@ steps:
 
 
     script: |
-      print('This is Section 1 Azure Demonstration')
+      print('This is SEM END Azure Demonstration')
       print('KL-CSE')
